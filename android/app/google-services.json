@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515237415168",
+    "project_id": "faceshare-ai",
+    "storage_bucket": "faceshare-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515237415168:android:bfc43532f66c738dac4be5",
+        "android_client_info": {
+          "package_name": "com.example.faceshare_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqjuGF0jwZ5qS0kFEhX32UoN2gPT-55Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
